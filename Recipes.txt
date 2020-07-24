@@ -6,4 +6,7 @@ Rice
 Pasta
 Chicken 
 
+Beans
+Pizza
+
 Thank you!
